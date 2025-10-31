@@ -215,7 +215,7 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 ## Contato 📞
 
 - **Desenvolvedor**: [João Vitor](https://github.com/Mr-Jyoao)
-- **Email**: joao62957@example.com
+- **Email**: joao62957@gmail.com
 - **LinkedIn**: [Meu Perfil](https://www.linkedin.com/feed/?trk=nav_logo)
 
 ## Agradecimentos 🙏
