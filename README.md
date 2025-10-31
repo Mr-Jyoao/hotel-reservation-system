@@ -71,8 +71,6 @@ hotel-reservation-system/
 └── README.md                 # Documentação
 ```
 
-## Instalação e Uso 🚀
-
 ### Pré-requisitos
 - Navegador web moderno (Chrome, Firefox, Safari, Edge)
 - Servidor web local (opcional, para desenvolvimento)
