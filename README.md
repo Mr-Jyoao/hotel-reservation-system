@@ -214,9 +214,9 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ## Contato 📞
 
-- **Desenvolvedor**: [Seu Nome](https://github.com/seu-usuario)
-- **Email**: seu.email@example.com
-- **LinkedIn**: [Seu Perfil](https://linkedin.com/in/seu-perfil)
+- **Desenvolvedor**: [Seu Nome](https://github.com/Mr-Jyoao)
+- **Email**: joao62957@example.com
+- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/feed/?trk=nav_logo)
 
 ## Agradecimentos 🙏
 
