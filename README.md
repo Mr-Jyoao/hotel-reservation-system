@@ -77,47 +77,6 @@ hotel-reservation-system/
 - Navegador web moderno (Chrome, Firefox, Safari, Edge)
 - Servidor web local (opcional, para desenvolvimento)
 
-### Instalação Rápida
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/seu-usuario/hotel-reservation-system.git
-   ```
-
-2. **Acesse o diretório**
-   ```bash
-   cd hotel-reservation-system
-   ```
-
-3. **Execute o projeto**
-   - Abra o arquivo `index.html` no navegador
-   - Ou use um servidor local:
-   ```bash
-   # Com Python
-   python -m http.server 8000
-   
-   # Com Node.js
-   npx http-server
-   ```
-
-### Desenvolvimento
-
-Para contribuir com o projeto:
-
-1. Faça o fork do repositório
-2. Crie uma branch para sua feature
-   ```bash
-   git checkout -b feature/nova-funcionalidade
-   ```
-3. Commit suas mudanças
-   ```bash
-   git commit -m 'Adiciona nova funcionalidade'
-   ```
-4. Push para a branch
-   ```bash
-   git push origin feature/nova-funcionalidade
-   ```
-
 ## Capturas de Tela 📸
 
 ### Página Inicial
